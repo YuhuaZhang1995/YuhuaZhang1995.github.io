@@ -1,6 +1,6 @@
 ---
 title: "Graduate Student Research Assistant, May 2018-present"
-excerpt: "Research assistant at Zöllber group and Dempsey group at University of Michigan, Department of Biostatistics, Ann Arbor, MI"
+excerpt: "Research assistant at Zöllber group at the University of Michigan, Department of Biostatistics, Ann Arbor, MI"
 permalink: /portfolio/GSRA
 collection: portfolio
 
