@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Yuhua Zhang"
 title_separator          : "-"
-name                     : &name "Yuhua Zhang, MS"
-description              : &description "Ph.D. Candidate in Biostatistics, University of Michigan"
+name                     : &name "Yuhua Zhang, PhD"
+description              : &description "Postdoctoral Researcher in Biostatistics, Harvard University"
 url                      : https://yuhuazhang1995.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuhuaZhang1995/YuhuaZhang1995.github.io"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yuhua Zhang"
-  avatar           : "IMG_7128.jpg"
-  bio              : "PhD Candidate in Biostatistics"
-  location         : "Ann Arbor, MI"
+  avatar           : "YuhuaZhang_OCT21-1.jpg"
+  bio              : "Postdoctoral Researcher in Biostatistics, Harvard University"
+  location         : "Boston, MA"
   employer         : #"University of Michigan"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=prsuc50AAAAJ&hl=en"
-  email            : "zyuhua@umich.edu"
+  email            : "yuhuazhang@hsph.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
