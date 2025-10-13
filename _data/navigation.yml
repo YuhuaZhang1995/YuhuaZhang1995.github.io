@@ -6,14 +6,15 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
         
-  - title: "CV"
-    url: /cv/
+  - title: "Experience"
+    url: /experience/
     
-  - title: "Projects"
-    url: /talks/    
+  - title: "Publications"
+    url: /pub/ 
 
-  #- title: "Portfolio"
-   # url: /portfolio/
+  - title: "CV"
+    # Update this PDF in ./files/ if you need to update your CV! 
+    url: https://yuhuazhang1995.github.io/files/CV_Yuhua_Zhang.pdf
   
   #- title: "Teaching"
   #  url: /teaching/    
