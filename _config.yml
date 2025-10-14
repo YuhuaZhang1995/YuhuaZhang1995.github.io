@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yuhua Zhang"
   avatar           : "YuhuaZhang_OCT21-1.jpg"
-  bio              : "Postdoctoral Researcher in Biostatistics, Harvard University"
-  location         : "Boston, MA"
-  employer         : #"University of Michigan"
+  bio              : "Postdoctoral Researcher in Biostatistics"
+  location         : # "Boston, MA"
+  employer         : "Harvard University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=prsuc50AAAAJ&hl=en"
   email            : "yuhuazhang@hsph.harvard.edu"

@@ -5,16 +5,16 @@ main:
    
 #  - title: "Blog Posts"
 #    url: /year-archive/
-        
-  - title: "Experience"
-    url: /experience/
-    
-  - title: "Publications"
-    url: /pub/ 
 
   - title: "CV"
     # Update this PDF in ./files/ if you need to update your CV! 
     url: https://yuhuazhang1995.github.io/files/CV_Yuhua_Zhang.pdf
+
+  - title: "Publications"
+    url: /pub/ 
+
+  - title: "Experience"
+    url: /experience/
   
   #- title: "Teaching"
   #  url: /teaching/    

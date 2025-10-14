@@ -13,7 +13,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## Theory and Statistical Methodology
 
-1. **Yuhua Zhang**, JP Onnela, Shuo Sun, Ruoyu Wang. “Identification and estimation of heterogeneous interference effects under Unknown network.” *ArXiv* preprint, (2025).
+1. **Yuhua Zhang**, JP Onnela, Shuo Sun, Ruoyu Wang. “[Identification and estimation of heterogeneous interference effects under unknown network](https://arxiv.org/abs/2510.10508).” *ArXiv* preprint, (2025).
 
 1. **Yuhua Zhang**, Kori S. Zachrison, Renee Y. Hsia, JP Onnela. “[Community detection through recursive partitioning in Bayesian framework](https://arxiv.org/abs/2509.23536).” *ArXiv* preprint, (2025).
 
