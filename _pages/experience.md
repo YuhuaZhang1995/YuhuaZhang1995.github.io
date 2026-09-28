@@ -17,6 +17,7 @@ redirect_from:
 
 ## Research Experience
 
-* Postdoctoral Researcher, Harvard University, 2023.9 - Present
-* Graduate Student Research Assistant, University of Michigan, Ann Arbor, 2018.9 – 2023.8
-* Undergraduate Student Research Assistant, Yale University, 2016.9 – 2017.5
+* 2026.8 - Present: Postdoctoral Researcher, Yale University, New Haven, CT
+* 2023.9 - 2026.7: Postdoctoral Researcher, Harvard University, Boston, MA
+* 2018.9 – 2023.8: Graduate Student Research Assistant, University of Michigan, Ann Arbor, MI
+* 2016.9 – 2017.5: Undergraduate Student Research Assistant, Yale University, New Haven, CT

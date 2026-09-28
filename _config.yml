@@ -11,7 +11,7 @@ title                    : "Yuhua's Homepage"
 title_separator          : "-"
 name                     : &name "Yuhua Zhang, PhD"
 description              : &description "Postdoctoral Researcher in Biostatistics, Harvard University"
-page_updated             : "10/17/2025"
+page_updated             : "Sep 2026"
 url                      : https://yuhuazhang1995.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuhuaZhang1995/YuhuaZhang1995.github.io"
@@ -85,10 +85,10 @@ author:
   avatar           : "YuhuaZhang_OCT21-1.jpg"
   bio              : "Postdoctoral Researcher in Biostatistics"
   location         : # "Boston, MA"
-  employer         : "Harvard University"
+  employer         : "Yale University, New Haven"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=prsuc50AAAAJ&hl=en"
-  email            : "yuhuazhang@hsph.harvard.edu"
+  email            : "yuhua.zhang@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
